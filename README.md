@@ -1,5 +1,5 @@
 # timeRsync
-Time rsync bat file for rsyncing time automatically for older computers.
+Time resync bat file for rsyncing time automatically for older computers.
 
 This thing builded from several website forums comments.Unfortunately
 I didn't take notes of where did I took :( So I can't reference.
